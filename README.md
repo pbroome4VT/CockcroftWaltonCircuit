@@ -14,13 +14,13 @@ pbroome4@vt.edu
 Design stage
 
 ## Project Overview
-Aim to build a Cockcroft-Walton circuit with the ability to use a stepped up voltage to rapidly charge parallel capacitor banks. These can then serve as portable power sources to possibly charge batteries over a longer period.
+Aim to build a controlled spark gap using a transformer and cockcroft-walton voltage multiplier. Using a small battery, we will generate a time varying waveform to be stepped up using a transformer and then further amplified using a cockcroft-walton circuit.
 
 ## Educational Value Added
-Reinforced theoretical concepts taught in class. Specifically, the use of oscilators, transformers, DC-DC conversion, and switching
+Reinforced theoretical concepts taught in class. Specifically, the use of oscilators, transformers, DC-DC conversion, and switching.
 
 ## Tasks
-get amp lab acess
+get amp lab access
 find mentor
 design circuit/perform analysis
 size components
