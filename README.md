@@ -1,8 +1,9 @@
 ## Members
-Paul Broome, Electrical Engineering Student (2024)
+Paul Broome, Electrical Engineering Student (2024)  
+pbroome4@vt.edu  
 Anson Trapani, Basket Weaving & Gender Studies (TBD)
 Ben Updike, Electrical and Computer Engineering (2024)
-pbroome4@vt.edu
+
 
 ## Repo Link
 <a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
